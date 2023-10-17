@@ -1,0 +1,14 @@
+D:\3 kурс\3 курс\практика\Волога_Модуль4\Vologa_Modul4\Vologa1_Modul4\Vologa1_Modul4\obj\Debug\net6.0\Vologa1_Modul4.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 kурс\3 курс\практика\Волога_Модуль4\Vologa_Modul4\Vologa1_Modul4\Vologa1_Modul4\obj\Debug\net6.0\Vologa1_Modul4.AssemblyInfoInputs.cache
+D:\3 kурс\3 курс\практика\Волога_Модуль4\Vologa_Modul4\Vologa1_Modul4\Vologa1_Modul4\obj\Debug\net6.0\Vologa1_Modul4.AssemblyInfo.cs
+D:\3 kурс\3 курс\практика\Волога_Модуль4\Vologa_Modul4\Vologa1_Modul4\Vologa1_Modul4\obj\Debug\net6.0\Vologa1_Modul4.csproj.CoreCompileInputs.cache
+D:\3 kурс\3 курс\практика\Волога_Модуль4\Vologa_Modul4\Vologa1_Modul4\Vologa1_Modul4\bin\Debug\net6.0\Vologa1_Modul4.exe
+D:\3 kурс\3 курс\практика\Волога_Модуль4\Vologa_Modul4\Vologa1_Modul4\Vologa1_Modul4\bin\Debug\net6.0\Vologa1_Modul4.deps.json
+D:\3 kурс\3 курс\практика\Волога_Модуль4\Vologa_Modul4\Vologa1_Modul4\Vologa1_Modul4\bin\Debug\net6.0\Vologa1_Modul4.runtimeconfig.json
+D:\3 kурс\3 курс\практика\Волога_Модуль4\Vologa_Modul4\Vologa1_Modul4\Vologa1_Modul4\bin\Debug\net6.0\Vologa1_Modul4.dll
+D:\3 kурс\3 курс\практика\Волога_Модуль4\Vologa_Modul4\Vologa1_Modul4\Vologa1_Modul4\bin\Debug\net6.0\Vologa1_Modul4.pdb
+D:\3 kурс\3 курс\практика\Волога_Модуль4\Vologa_Modul4\Vologa1_Modul4\Vologa1_Modul4\obj\Debug\net6.0\Vologa1_Modul4.dll
+D:\3 kурс\3 курс\практика\Волога_Модуль4\Vologa_Modul4\Vologa1_Modul4\Vologa1_Modul4\obj\Debug\net6.0\refint\Vologa1_Modul4.dll
+D:\3 kурс\3 курс\практика\Волога_Модуль4\Vologa_Modul4\Vologa1_Modul4\Vologa1_Modul4\obj\Debug\net6.0\Vologa1_Modul4.pdb
+D:\3 kурс\3 курс\практика\Волога_Модуль4\Vologa_Modul4\Vologa1_Modul4\Vologa1_Modul4\obj\Debug\net6.0\Vologa1_Modul4.genruntimeconfig.cache
+D:\3 kурс\3 курс\практика\Волога_Модуль4\Vologa_Modul4\Vologa1_Modul4\Vologa1_Modul4\obj\Debug\net6.0\ref\Vologa1_Modul4.dll

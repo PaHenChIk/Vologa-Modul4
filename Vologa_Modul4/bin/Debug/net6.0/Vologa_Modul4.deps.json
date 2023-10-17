@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Vologa_Modul4/1.0.0": {
+        "dependencies": {
+          "Vologa1_Modul4": "1.0.0",
+          "Vologa2_Modul4": "1.0.0",
+          "Vologa3_Modul4": "1.0.0",
+          "Vologa4_Modul4": "1.0.0",
+          "Vologa5_Modul4": "1.0.0"
+        },
+        "runtime": {
+          "Vologa_Modul4.dll": {}
+        }
+      },
+      "Vologa1_Modul4/1.0.0": {
+        "runtime": {
+          "Vologa1_Modul4.dll": {}
+        }
+      },
+      "Vologa2_Modul4/1.0.0": {
+        "runtime": {
+          "Vologa2_Modul4.dll": {}
+        }
+      },
+      "Vologa3_Modul4/1.0.0": {
+        "runtime": {
+          "Vologa3_Modul4.dll": {}
+        }
+      },
+      "Vologa4_Modul4/1.0.0": {
+        "runtime": {
+          "Vologa4_Modul4.dll": {}
+        }
+      },
+      "Vologa5_Modul4/1.0.0": {
+        "runtime": {
+          "Vologa5_Modul4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vologa_Modul4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vologa1_Modul4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vologa2_Modul4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vologa3_Modul4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vologa4_Modul4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vologa5_Modul4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

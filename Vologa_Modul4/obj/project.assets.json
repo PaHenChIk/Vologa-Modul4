@@ -1,0 +1,173 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Vologa1_Modul4/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Vologa1_Modul4.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Vologa1_Modul4.dll": {}
+        }
+      },
+      "Vologa2_Modul4/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Vologa2_Modul4.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Vologa2_Modul4.dll": {}
+        }
+      },
+      "Vologa3_Modul4/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Vologa3_Modul4.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Vologa3_Modul4.dll": {}
+        }
+      },
+      "Vologa4_Modul4/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Vologa4_Modul4.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Vologa4_Modul4.dll": {}
+        }
+      },
+      "Vologa5_Modul4/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Vologa5_Modul4.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Vologa5_Modul4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vologa1_Modul4/1.0.0": {
+      "type": "project",
+      "path": "../Vologa1_Modul4/Vologa1_Modul4/Vologa1_Modul4.csproj",
+      "msbuildProject": "../Vologa1_Modul4/Vologa1_Modul4/Vologa1_Modul4.csproj"
+    },
+    "Vologa2_Modul4/1.0.0": {
+      "type": "project",
+      "path": "../Vologa2_Modul4/Vologa2_Modul4/Vologa2_Modul4.csproj",
+      "msbuildProject": "../Vologa2_Modul4/Vologa2_Modul4/Vologa2_Modul4.csproj"
+    },
+    "Vologa3_Modul4/1.0.0": {
+      "type": "project",
+      "path": "../Vologa3_Modul4/Vologa3_Modul4/Vologa3_Modul4.csproj",
+      "msbuildProject": "../Vologa3_Modul4/Vologa3_Modul4/Vologa3_Modul4.csproj"
+    },
+    "Vologa4_Modul4/1.0.0": {
+      "type": "project",
+      "path": "../Vologa4_Modul4/Vologa4_Modul4/Vologa4_Modul4.csproj",
+      "msbuildProject": "../Vologa4_Modul4/Vologa4_Modul4/Vologa4_Modul4.csproj"
+    },
+    "Vologa5_Modul4/1.0.0": {
+      "type": "project",
+      "path": "../Vologa5_Modul4/Vologa5_Modul4/Vologa5_Modul4.csproj",
+      "msbuildProject": "../Vologa5_Modul4/Vologa5_Modul4/Vologa5_Modul4.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Vologa1_Modul4 >= 1.0.0",
+      "Vologa2_Modul4 >= 1.0.0",
+      "Vologa3_Modul4 >= 1.0.0",
+      "Vologa4_Modul4 >= 1.0.0",
+      "Vologa5_Modul4 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kulik\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\3 kурс\\3 курс\\практика\\Волога_Модуль4\\Vologa_Modul4\\Vologa_Modul4\\Vologa_Modul4.csproj",
+      "projectName": "Vologa_Modul4",
+      "projectPath": "D:\\3 kурс\\3 курс\\практика\\Волога_Модуль4\\Vologa_Modul4\\Vologa_Modul4\\Vologa_Modul4.csproj",
+      "packagesPath": "C:\\Users\\kulik\\.nuget\\packages\\",
+      "outputPath": "D:\\3 kурс\\3 курс\\практика\\Волога_Модуль4\\Vologa_Modul4\\Vologa_Modul4\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\kulik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\3 kурс\\3 курс\\практика\\Волога_Модуль4\\Vologa_Modul4\\Vologa1_Modul4\\Vologa1_Modul4\\Vologa1_Modul4.csproj": {
+              "projectPath": "D:\\3 kурс\\3 курс\\практика\\Волога_Модуль4\\Vologa_Modul4\\Vologa1_Modul4\\Vologa1_Modul4\\Vologa1_Modul4.csproj"
+            },
+            "D:\\3 kурс\\3 курс\\практика\\Волога_Модуль4\\Vologa_Modul4\\Vologa2_Modul4\\Vologa2_Modul4\\Vologa2_Modul4.csproj": {
+              "projectPath": "D:\\3 kурс\\3 курс\\практика\\Волога_Модуль4\\Vologa_Modul4\\Vologa2_Modul4\\Vologa2_Modul4\\Vologa2_Modul4.csproj"
+            },
+            "D:\\3 kурс\\3 курс\\практика\\Волога_Модуль4\\Vologa_Modul4\\Vologa3_Modul4\\Vologa3_Modul4\\Vologa3_Modul4.csproj": {
+              "projectPath": "D:\\3 kурс\\3 курс\\практика\\Волога_Модуль4\\Vologa_Modul4\\Vologa3_Modul4\\Vologa3_Modul4\\Vologa3_Modul4.csproj"
+            },
+            "D:\\3 kурс\\3 курс\\практика\\Волога_Модуль4\\Vologa_Modul4\\Vologa4_Modul4\\Vologa4_Modul4\\Vologa4_Modul4.csproj": {
+              "projectPath": "D:\\3 kурс\\3 курс\\практика\\Волога_Модуль4\\Vologa_Modul4\\Vologa4_Modul4\\Vologa4_Modul4\\Vologa4_Modul4.csproj"
+            },
+            "D:\\3 kурс\\3 курс\\практика\\Волога_Модуль4\\Vologa_Modul4\\Vologa5_Modul4\\Vologa5_Modul4\\Vologa5_Modul4.csproj": {
+              "projectPath": "D:\\3 kурс\\3 курс\\практика\\Волога_Модуль4\\Vologa_Modul4\\Vologa5_Modul4\\Vologa5_Modul4\\Vologa5_Modul4.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
